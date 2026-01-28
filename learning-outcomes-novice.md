@@ -1,4 +1,4 @@
-# Learning outcomes for movice programmers
+# Learning outcomes for novice programmers
 _After participating in the workshop, learners will be able to…_
 
 * Summarise some of the ethical concerns around the development and use of genAI.
